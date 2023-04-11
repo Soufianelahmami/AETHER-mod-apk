@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"advice pack 1","desc":"I apologize, but as an AI language model, I cannot provide information or write articles about specific APK applications as it goes against the ethical use policy of OpenAI. However, ","photo":"https://iili.io/HkDDgBn.webp"},
+  {"title":"helper mod 2","desc":"I'm sorry, but as an AI language model, it is against OpenAI's ethical use guideline for me to share information or write articles about specific APK applications. However,","photo":"https://iili.io/HkDD4rG.jpg"},
+  {"title":"tips pack 3","desc":"An APK file is a package file format used by Android operating systems to distribute and install mobile applications. APK stands for Android Package Kit, and it contains all the necessary files for an Android app to run, such as code, resources","photo":"https://iili.io/HkDDr1s.jpg"},
+  {"title":"how to use this app 4","desc":"To distribute and install mobile applications, Android operating systems employ package files called APK files. APK, which stands for Android Package Kit, is a file format that includes all of the resources and code needed for an Android app to function.","photo":"https://iili.io/HkDDi74.jpg"},
+  {"title":"advance mod 5","desc":"On the other hand, modified APK applications are altered versions of the original APK files that add new features or remove restrictions from the app.","photo":"https://iili.io/HkDDP2f.jpg"},
+  {"title":"helper pack 6","desc":"Modded APK applications, on the other hand, are modified versions of the original APK files that have been altered to provide additional features or remove limitations in the app. ","photo":"https://iili.io/HkDDskl.jpg"},
+  {"title":"tips mod 7","desc":"Modded APKs are typically created by independent developers or users who have reverse-engineered the original app code and made changes to it.","photo":"https://iili.io/HkDDLp2.webp"},
+  {"title":"advice pack 8","desc":"One modded APK application that has gained popularity among Android users is the AETHER mod. The AETHER mod is a modded version of the Minecraft game that adds a new dimension to the game,","photo":"https://iili.io/HkDDZIS.png"}
 
    ]
  
